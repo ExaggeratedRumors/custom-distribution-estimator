@@ -1,3 +1,3 @@
-# Equalized Binomial Distribution
+# Custom Distribution Estimator
 
-Test project for an equalized binomial probability distribution.
+Test project for an estimator of custom quasi-binomial probability distribution.
